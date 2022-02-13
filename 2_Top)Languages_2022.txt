@@ -1,0 +1,61 @@
+If you want to make $$$ what programming language?
+- In most tech companies, theres a technical portion in the interview
+- LeetCode (LC) interviewing
+- LC: Set of problems to solve using DS/A
+- You want a language that is easy to use to solve these problems
+- Python+!+!
+ - Why Python?
+     - Easy
+     - The best beginner language 
+     - Syntax is easy to understand 
+     - Python has ALOT of tooling that come with it 
+     - Python has a massive community **
+      - It provides resources for you to debug/learn/solve
+      - For a beginner this is key
+     - Compact and Explicit syntax is great for LC
+     - Its practically a pseudo-language/white board language
+     - It helps to express your thoughts to your interviewers (+1)
+
+If you want to BUILD Mobile/Web APPS yourself, what programming language?
+ - JavaScript/TypeScript
+ - Why JavaScript:
+    - Incredibly adopted
+    - Massive communities
+    - As a beginner, the bigger community makes it easier to learn
+    - The vast frameworks/libraries 
+    - Powerful
+     - Frontend
+     - Backend (nodejs)
+    - You can make a full stack application from start to finish all using JS
+    - Mobile support (React Native)
+
+People who are looking for the next technological wave
+ - These people want to get ahead of whats coming
+ - Technology moves so fast, theres always new buzz words
+ - in ~2020:
+    - Data Science
+    - Machine Learning
+    - Ai
+    - Big Data
+- NOW:
+    - Blockchain
+    - Crypto
+    - Web3.0
+- People who want to learn W3.0
+- Solidity + Rust
+- Solidity:
+    - Very similar JS
+    - JS + Go had a baby
+    - The main language used in ETH contracts
+    - Easy to understand, and it has decent amount of content to learn
+- Rust:
+    - Rust is a hard language to learn
+    - SOL, NEAR, AVAX, its used in ALOT of blockchains
+    - Extremely smart engineering community
+   
+Intermediate Developers?
+- I recommend Go Lang
+- I think its the best language that combines the principals of Python and C
+- We have done streams using Go and made projects using GO
+- As a python dev, Go introduced me to things that Python spoiled me in
+   
