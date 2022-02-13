@@ -1,0 +1,221 @@
+
+
+Is having side projects equally as important as DS and A (LeetCode)
+- Yes - 100%
+- Youre always going to have some sort of a technical
+- S.P = theyre conversation starters
+- is they can differentiate you from the rest of the candidates
+- allows a convo to be natural and not forced
+- S.P because it showcases the company what you really want
+- E:X
+ - I want to apply to Twitter, as a Data Scientist 
+ - Lets say I have done 200 LeetCode questions
+ - I make a side project that parses Twitters data 
+and creates a dashboard for mods to see
+
+How balance your time for creating side projects:
+- A lot of us are busy
+- families, full time jobs, other activities, life
+- Don't force it - Don't force time in your side project
+- Time will come for it
+- Start to organise what you spend your time on
+ - FT work
+ - Activities (gym, hiking, stuff)
+ - relaxing (games, stream)
+- Create a schedule that works for you to find some time
+- The very first thing you should do: Is spend 10 minutes
+thinking of what youre going to do
+- Writing what you want to work on a piece of paper
+- Writing things done, is the first step to any S.P
+- It has to come natural, the more you WANT to work on your 
+S.P, the more time the universe will create for you
+- Sometimes, sacrifice is needed
+- if youre going out with your friends to Hibachi every saturday,
+maybe miss next saturday and spend that time on your S.P
+
+Should you even do any side projects?
+- A lot of us are busy
+- A lot of us already have FT jobs
+- Some of us are grinding LeetCode
+- Some of us have families
+- Why should I do any side projects?
+ - Learning
+ - It's a lot fun
+ - You can solve YOUR problems
+ - Setting Personal goals (Real users using my product)
+
+How much learning should I incorporate into my side project?
+- Two ways to think about this
+- Sometimes, you want to incorporate 0* learning
+* Theres always gotchas
+- If your S.P is a serious investment on your part,
+learning new tech may not be appropriate. 
+- In these situations, you are more focused on
+delivering and creating usable code
+- HOWEVER:
+- If youre working on something for yourself, its more relaxed,
+definitely incorporate a lot of learning, especially if youre busy
+- Its a good way to force yourself to learn
+- We all use YouTube Tutorials, Udemy courses, medium articles
+to learn stuff initially. 
+- Doing courses, a lot of the time, youre just copying the work
+the instructor is doing
+- ^ its hand holding
+- A side project forces you to dive in to a new technology
+fully by yourself and really learning how to use it 
+- To learn, you need to get your hands dirty!
+
+
+Silver Dollar Syndrome
+- We have all done it
+- What is it?
+ - Youre walking down the street. As youre walking, 
+you see a silver dollar on the ground. You get super excited,
+so you walk towards it to pick it up. But, before you do, in 
+the corner of your eyes, you see another shinier, silver dollar.
+So you stop, and then you walk towards the SHINIER silver dollar,
+to pick up.
+- This is what happens with side projects. You think of an idea,
+you get excited, and you start working on it.
+But then, you get ANOTHER great side project idea, then you start
+working on that one.. repeats.. and repeats..
+
+- Finishing a task, is a skill in itself
+- Is always keep your focus on the first goal
+- Your brain, sometimes, tricks you and gets bored
+- Set goals, and checkpoints for your S.P
+- Set an expiration date **
+** Sometimes, the love for S.P expires.
+- So if you set an expiration date a month ahead,
+in a months time, check in yourself.
+- See if you still like working on it.
+- See if you have been working it
+- If you're still passionate about it, renew that expiration date
+
+Do you have to do side projects if you already have a FT job?
+- Yes
+- Never stop learning
+- Never stop trying
+- And you never know, your S.P can be the next big thing
+and lead you to some form a big goal
+- Big Goal:
+ - Financial freedom
+ - Exposure
+- No matter what job you have, no matter where you are in life,
+you should always continue pushing your self to learn new things,
+try new things and build new things. 
+
+
+Do side projects == side hustles?
+- They can 
+- Typically, my advice is dont do a side project where the goal is 
+to make money
+- S.P === Do it for yourself, for your problems, for learning
+- S.H === Do it for money, social clout, etc
+
+- These two have very different goals
+- And you need to treat they differently
+
+** A side project, could BECOME a side hustle down the road
+
+Will my full time employer have rights to my project if it moons?
+- This question is definitely better suited for a lawyer
+- Look at your own contract/ Local laws
+- Here is a rule of thumb:
+ - Dont work on your side project on company equipment
+ - (TRY) not to work on your side project during company hours (9-5)
+ - Dont work on your side project on company HQ/Office
+ - Try to keep your S.P to yourself...
+
+Do side projects matter for a portfolio
+- Yes, of course
+- Not all of them
+- That each resume, or each application, should be tailored and be specific
+- you should also specify which S.P you are going to showcase in your
+application package
+- If you have a side project that is specific or relatable to a 
+company you are applying to, its a great demonstration that you
+want to work at that particular company. 
+- Side projects are good for starting a conversation
+- Side projects are good for differentiating you from other candidates
+
+Do you have to ship/deploy your side project
+What is considered a 'finished' side project?
+
+- *refer to Silver Dollar Question above
+- Only you know when the side project is really done
+- Honestly, a project isnt never really fully finished
+- You can never 100% a project
+- That's why, in the very beginning or project planning,
+set your own goals, set your own milestones and 
+create your own checkpoints
+- Make sure you are happy with what 'completion'
+- Some people may tell you that you need to do X, Y and Z
+to be considered 'complete';
+- That's up to you to decide
+- You don't NEED to deploy it;
+- However, I would recommend it. 
+- Get others to use your S.P, let them battle test it
+let them find bugs, errors, whatever!
+
+Collaboration in side projects (should I and how?)
+- This definitely depends.
+- When you work with others, i think it adds more seriousness to your S.P
+- More people looking the progress, youre held accountable, and obviously
+you dont want to drag the team down.
+- If you're collaborating, def have a ticket/tracker system
+
+- Its good to collaborate
+- HOW to collaborate on a side project:
+ - Make sure you're on the same page
+as to what this project should do, and the goals for it
+- "Too many chefs in the kitchen"
+- Make sure everyone has a set responsibility in the project
+- You dont want 5 FE Devs and 1 BE Devs
+- When more people are involved in a project, they will throw in
+new ideas and sometimes it will bloat the project
+
+
+Git workflow in side projects (best practices)
+- When you're working on a local S.P and you use Git to store
+the project, sometimes you just do straight to main.
+- I think, that any project should follow a bare bone git flow
+- I dont think you should push to main on any project
+- "Classic meme, branch, review, and merge your own code"
+- I believe in this meme
+- A bare bone implementation: 
+ - have main
+ - have development
+- Main/Master branch should only be merged into
+- tl;dr: Yes, just build good habits even if its for your own S.P
+
+Open source contributions?
+- An OS contribution in itself can be a side project
+- I believe contributing to side projects is amazing
+- If you can create something that helps a community/tool
+with your work/code, thats phenomenal
+- Open source contributions as side projects are 
+probably the best way to start:
+ - It gives a SET goal (if merged, and used, youre done)
+ - You collaborate with others
+ - Your S.P has actual impact and value right away 
+ - If your are a junior/just starting and dont have work
+experience, open source contributions is a great way
+to start building the resume
+
+
+How to get ideas for a side project??
+- Just living your life
+- You will encounter a bunch of problems that piss you off
+- Solve problems in your life
+- Use Reddit/Twitter/Twitch/YouTube
+- Talk to people
+- Try new things that open your perspective and experiences:
+ - Example: I Started Streaming on Twitch.
+ it was a new experience, and it opened my perspective.
+ From this, I was able to build SnackChat, A Twitch Bot,
+ CodePow, etc etc
+- Always look at things with a fresh perspective
+- Honestly, write down all of your ideas on a piece of paper 
+
+

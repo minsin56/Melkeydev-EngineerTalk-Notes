@@ -1,0 +1,173 @@
+Engineering Talks - Feb 6 - 2022:
+
+Questions:
+- How do you come back from imposter symdrome?
+- Can it make you a better developer?
+- Does the company you work for influence your imposter syndrome
+ - Smaller company less imposter syndrome?
+ - Bigger company more imposter syndrome?
+- How to get over the fear of accepting a challenging, but potentially fun job? 
+- How to code comfortably with others watching
+- - How to set yourself up to minimize the imposter syndrome 
+- How to deal with other engineers code
+- How to not stress yourself when the project/code base is in chaos?
+- How to process feedback in a healthy way
+- Ways to manage imposter syndrome
+- Inexperience vs Imposter syndrome
+- Is imposter syndrome a bad thing?
+
+What is imposter syndrome ?
+ - It is doubting your abilities and skills, essentially feeling like a fraud in whatever it is you're doing.
+ - In programming, it is very relevant to have this experience, or to feel like you're "not good enough"
+ - Reasons when we feel imposter syndrome:
+  - When you cant get a task/ticket done
+  - When you feel like you'rew asking a lot of questions
+  - When you feel like you just cant deliver on a task/goal
+  - When you have a bad day
+  - Occurs when you begin comparing yourself to others
+  - When you're new to a topic/programming language/technology
+  - Example: You just joined a new team where they use a lot of GCP (Google Cloud Platform). But you yourself
+             only have limited experience/ exposure with GCP. There's a lot to learn, theres so many
+             new terminologies that you feel overwhelmed and that you just cant piece it together
+  - Feeling like you just aren't at the standard that you should be for your role
+  - I think this is more common in engineers who are self-taught and perhaps did not go to school
+    or have any internships previously
+  - Is imposter syndrome simply you not understand or undermining your own abilities?
+  - Others have better tactics of dealing with it than others
+  - When I worked at a smaller company, and then I went to Twitch, i felt imposter syndrome
+   - I felt like since the quality and standard at Twitch was higher, 
+     I felt like i did not belong
+ 
+Why do we even feel imposter syndrome?
+  - The difficulty to accept your own skills and accomplishments
+  - Feeling like you are not good enough also manifests itself into
+    imposter syndrome
+  - When you get into this negative mentality, you typically 
+    stop seeing and realising all the good things that you are doing and 
+    only focus on the bad things that are happening
+  - Thinking you dont deserve something (the role that youre at?)
+  - Example:
+      - You just got hired as a new developer on a Google team
+      - Passing the interview, getting hired acts as proof that you are 
+        qualified enough. But: when you start, you feel overwhelmed, 
+        and you start to question your own abilities in this team, and thus
+        you feel like a fraud
+  - Example:
+    - you just delivered a project/service. You did it on time, and its great for launch.
+    - However, you still doubt your code, the quality, the architecture, etc etc.
+
+  - We lack confidence in ourselves
+  - We compare ourselves to others injustifiably
+  - We are too hard on ourselves
+  - Sometimes you dont realize you're way better than you think
+  - Experts refusing to be experts
+  - We dont want to admit our accomplishments
+
+What triggers imposter syndrome:
+- After getting hired/ seeing the the new team and the current skill levels of my
+new colleagues
+- Too much thinking and planning 
+- After getting a promotion 
+- Making progress on a task
+- Getting feedback
+- Asking for help on a problem
+- Seeing colleagues work/solutions
+- New team terminology and tech stack **
+- Dealing with new technology 
+- Getting turned down after thinking you have improved
+
+When you see your new colleagues, they have specific experience.
+They more than likely, built the tech stack that you are going to be using.
+They more than likely, have been using that tech stack for months - years+
+
+- Imposter Syndrome poison: specific acronyms, jargon
+- ** False flags for imposter syndrome: It doesnt even give you a chance
+
+Why do we compare ourselves with other engineers?
+- I think its human nature that we compare ourselves to others
+- Because other engineers are better than us (?)
+- It is a way for us to gauge where our skill set is 
+- story time:
+    - Remember the Twitch leaks?
+    - i was very upset, and I was upset at people who I knew who were 
+      looking at these leaks (my friends)
+    - For programmers, one of the ways to get better at programming is 
+      to literally look at other engineers code
+- We do it because we want to be better
+- We want to be better because we are always looking to challenge ourselves, improve 
+  and progress
+- Move up the ladder
+- We look up at certain people/engineers that we deem are better than us
+OR 
+- We know this engineer built the product/service we are working 
+
+
+At what point do we get over imposter syndrome?
+- Never
+- I feel the more senior you get, the more you feel this
+- Its every time you get out of your comfort zone/
+  given more responsibility/ more expectations
+- Socrates: "The only thing that I know is that I dont know anything"
+- Learn to manage it as oppose to sweeping under the rug
+- It can be healthy, it can be powerful, as long as it doesnt take
+  over you or diminishes your and your work.
+- I feel the main thing you need to do with Imposter Syndrome, is:
+    A) realise when its happening
+    B) Take a step back, and before it manifests itself
+    look at all your achievements and accomplishments
+    C) Its a signal, that you feel challenged and an opportunity to grow
+- No one expects you to know everythin
+
+How a healthy/balanced lifestyle helps with Imposter Syndrome:
+- You MUST have a balanced lifestyle
+- Aim and strive to live healthy and appreciate life
+- Physical exercise, hydration, sleep, and just being happy
+will do wonders for you
+- a healthy/balanced lifestyle helps with everything
+- if you feel more and more pressure from imposter syndrome, 
+i definitely recommend to go exercise, or AT LEAST, take a break,
+go outside for a walk
+- Example:
+    Youre at your desk, and your code is just NOT working.
+    And your colleague is able to do their things very quickly.
+    This might trigger Imposter syndrome At this point, just stand up, close/sleep
+    your computer go outside for 15 minutes.
+- The quality of your work, matters exponentially more than the quantity.
+- The worst you want to do, is release code and have a senior completely re-write
+
+How to deal with negativity and naysayers
+- feedback != negativity 
+- "A lion does not lose sleep over the opinions of sheep"
+- Usually, if someone disagrees with you, OR proves you wrong,
+or suggests to try/do something different and you get offended,
+you have an ego problem
+- Ego and Imposter Sydomre sometimes go hand and hand
+- Just focus on yourself
+- Dont feed the trolls
+- when it comes to imposter syndrome, and you are getting negativity and 
+slander, I would suggest to evaluate your environment because its toxic
+- 
+
+When starting a new role, how to bootstrap yourself for success
+in order to avoid imposter syndrome
+
+- First thing, make sure you congratulate yourself and appreciate the fact
+that you got hired and you got job
+- So you got hired, and you start monday. What do you do to avoid imposter syndrome?
+I would email my manager for a list of the tech the team uses.
+I would be honest with myself, in terms of my skills and what the expectations are for me
+The reason you need to be honest with yourself, is then you will be honest with the rest of your 
+team.
+IF you tell your team you know Docker, but then ask 1000 basic questions:
+- "what is a docker file" - Red flag, not a good look.
+- Or worse, they have to completely re do your attempt at Docker
+What you should do instead, is be honest and say ive only heard of Docker ,etc etc
+and ask questions, ask for resources blah blah
+
+- Do not set high expectations, and deliver low
+- Do not promise false dates, always padd
+- Work with your manager to set realistic goals for 30, 60, 90 days
+tl;dr
+Be honest, and talk with your manager and team
+Set yourself up for success
+

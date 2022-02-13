@@ -1,0 +1,261 @@
+Questions:
+- 
+- What if I think I am not good enough (as an engineer)?
+- How do I prepare for these interviews
+- What sort of profiles do recruiters at these companies look for?
+- Is there a work life balance?
+- If i want to be a strong engineer, do I need to work at these companies?
+- Is it hard to get into FAANG from another country?
+- How much do you learn at these companies?
+- Is it still worth it to work at these companies?
+- Second rung/third rung FAANG/MAANG
+- 
+-  
+
+What is a FAANG/MAANG company?
+- It is a grouping of tech companies that are seen as the 
+top of the line for software engineers
+- FAANG:
+FaceBook, Apple, Amazon, Netflix and Google
+* M = Meta for FB rebrand
+- FAANGMULA:
+...+ Microsoft, Uber, Lyft, AirBNB
+- Essentially, it is massive successful tech companies that have
+changed a paradigm
+- A lot of students/engineers want to eventually work at these companies.
+Why? 
+- They Pay a lot, there's and element of pride to work there
+- It is the "Youve made it" for software development
+- It has the most social clout/club atmosphre
+- Joma Tech, Tech Lead, Clement Meaouescui, etc etc all made videos
+on these companies crediting for their individual motivation
+- A lot of strong engineers have either worked, or are working at one of these 
+companies
+
+What are the benefits of working at FAANG/MAANG:
+- The pay is great
+    - The pay is fucked
+    - Youre making more than doctors, dentists, surgeons
+- You work with a lot of other smart engineers
+- There's perks:
+    - Free launch
+    - Swag
+    - Certain benefits (internet, phone, travel, etc)
+- It acts as a badge for future job hunting
+    - Recruiters see this as a right of passage.
+    - If you have worked at these companies before,
+      you are seen as capable
+- You can learn ALOT
+- Big app scaling, high traffic, a lot of tech components
+- Network you build
+- Clout factor:
+    - It feels good to say you work at FAANG
+
+What are the negatives of working there?
+- Work life balance 
+- You will probably be working a lot especially if you are new
+and a junior
+- the work load can be overwhelming
+- Working at these companies that have ethical issues
+- Social stigmas at working at these companies
+- Learning can be a struggle due to how many people there are,
+and how much things every engineer needs to do
+- The expectations to deliver can be stressful, and impactful on your life
+    - Make sure you deliver
+    - You, as an individual, are easily replaceable 
+- The sheer volume of applicants these companies get, is insane
+- There's always gonna be a backfil for your role, no matter 
+what skillsets you bring to the table
+- A lot of times, you will get binned into a category
+    - Not meeting expectations
+    - Meeting expectations
+    - Exceeding expectations
+
+Role structure at these companies:
+- Typically:
+(companies have different level labels)
+    - Entry (L4 or L3) 
+        - Expectations: Zero.
+        - Interview: LeetCode and Communication
+            - Solve a tech leetcode prob and be a good person
+    - Intermediate (L5 or L4)
+        - Expectations: You can read, write and individually deploy features/services
+            - If given a tech spec, you can implement it and own the dead lines
+        - Interview:
+            - Leetcode
+            - System Design (explain, talk it out, pro/benefits)
+            - Communication, be a good person
+    - Senior (L6 or L5)+
+        - Expectations: 
+            - You come up with an entire service and implement
+            - You can delegate the work to other lower engineers
+            - Empower the rest of the team to successfuly launch a product
+        - Interview:
+            - Leetcode
+            - advanced system design
+            - communication
+            - key break down on previous work
+            
+What about other strong companies(tesla, cloud kitchen)
+- All because the company doesnt 'fit' in the acronym,
+does not mean its worse by any means
+- Sometimes, it has better benefits and even pays more
+- Other companies may include but are not limited to:
+    - Tesla
+    - Cloud Kitchen
+    - Coinbase
+    - Discord
+    - Cloudflare
+    - NVIDIA
+    - AND many many many more
+Situation:
+- You are applying to companies. You have done a few interviews.
+You got an offer from NVIDIA, but are wait to hear back from
+Apple. Nvidia is offering you equal salary, and the manager is super
+excited to have you on the team for you to grow and learn. While Apple,
+is kind of just filling in new positions and there is no individual plan for you
+- The cloud for FAANG is real
+
+Do you need to go to uni/school to get into these companies?
+- No.
+- These companies dont give a shit about a degree or not a degree
+- What they do care:
+    - Can you program?
+
+How hard is the interview process?
+- How hard is it really to get into these companies?
+- First, you need a good resume, you need to get selected,
+and then pass the recruiter screen
+
+- Youre going to solve LeetCode problems
+    - This is why the question of how hard a problem
+      is not a straight forward answer
+- on a leetcode level medium - hard for sure
+- Data structures and algos
+
+- The system Design question can also be hard:
+    - Design a recommendation system
+    - Design a scale subscription service
+    - Where can you pin point a bottleneck/throttle?
+
+What is the interview process?
+- Here is the typical flow from zero to hired at a FAANG/MAANG
+    - Application/Referral (this gets you in the door)
+    - Recruiter screening (they call you and talk)
+    - 1st Tech: You get sent a problem OR live 
+        (technical only)
+    - On-site:
+        - A full day/ or days of interviewing
+            - Multiple rounds of technial
+            - Can be LCode or System Design
+            - Behavioural interviews 
+            - Multiple rounds of interviews with diff people
+    - If you get passed all of this:
+        - Get the offer and negotiate
+
+Why do people quit/leave?
+- We just talked about how great these companies are
+    -We saw the salaries... so why leave?
+- Money != happiness *
+** I would rather be depressed and rich, than
+depressed and poor
+
+- Work life balance burnout
+- Your stocks vested (golden handcuffs are released)
+- You have learned how to be a good, strong engineer
+and you just want to work somewhere else
+
+- Better offer from another company 
+- New companies coming out, may have more potential for innovation
+than these existing giants
+- You can only stay on top for so long
+
+Is the money really worth it?
+- Situation:
+    - I was a broke masters student.
+    i was making 700 a month from T.A and another 200-400 from Streaming
+    - I wanted to work at a FAANG company since the beginning.
+    - When I got my first offer from a FAANG company, it literally
+    blew my mind
+
+- if you come from a tough financial background, the money is life changing
+- but that 'high' doesnt last forever.
+- You will notice that you will still have the same problems you had before
+- tl;dr - The money can change your trajectory, but you are always in control of the ship
+
+
+How many months in advance should you prep for the interview?
+- If you already have DS/A Average experience;
+    - A month to two months is all you need of quality LeetCode
+- If you are advanced at DS/A;
+    - probably a week or two of quality LeetCode
+- If you have absolutely no experience with DS/A;
+    - 3-6 + months is probably what you need
+
+What are the best ways of applying?
+- First of all, before even applying, you need to have a
+properly created resume
+- ^ this could be a whole stream on itself, but typically:
+    - you want to highlight the language and tech you used
+    - Be efficient, use bullet points, and dont have run-on sentences
+    - Be straight to the point of what you built and how
+    - Try keeping it to one page (dont be afraid of cutting past experience)
+    - Just make it look really nice
+- What you want to do is:
+    - Apply on the website 
+        - This process sucks
+        - You have to repeat what you already wrote, make an account
+    - Use LinkedIn:
+        - Nugget Method:
+            - You search the company
+            - Find recruiters/HR/Hiring managers
+            - Send a ping, a quick message.
+            - 'Nugg' them for a reply after
+            - Email em using:
+                https://hunter.io/ 
+            - Set up 'coffee chats' with people to get referrals
+    - Get 'cheap' referrals:
+            - Blind community
+            - just ask people
+
+- How do I get my foot in the door with zero to no experience?
+    - You want to get as much experience working on USED
+    personal projects*
+    * = any personal project is good!
+    - BUT, a personal project, that is used by others, is even better
+    - You contribute to open source code!!!
+    - Dont be afraid to exaggerate a little bit
+    - Any sort of work done on group/team projects/apps is great!
+
+Applying from a diff country
+- One advantage of these massive companies,
+is there they do hire around the world/globally
+- Its not just in the U.S
+- I live in Canada
+- A lot of these companies, have an entire division
+for Asia, Europe and other countries.
+- Salary will be adjusted to reflect where you live
+    - Example, L5 at Netflix makes 300k
+    in Eu, it will be adjusted
+- Definitely possible!!
+
+Tech stack unknown, but know others
+- When you join a company they will have their way
+of doing things
+- From FE Frameworks (react, vue, svelt etc..)
+- From cloud provider (aws, azure, gcp etc..)
+- deployment and ci/cd stack (jenkins, make files, gh actions etc
+- Interviews will sometimes ask you about a specific piece of tech
+(AWS experience)
+- ^ They could be using services from AWS you have never heard of
+(KDA, different instances wtv wtv)
+- You will more than like need time to learn
+- One trick:
+    - After getting hired, and you have some time before you start,
+    email the team lead and ask what tech you should be familiar with
+    - Start the Google/YouTube journey on that piece of tech
+    - Allows you to get some experience and understand what it is,
+    and terminology associated
+    - No reading beats hands on experience
+
+
