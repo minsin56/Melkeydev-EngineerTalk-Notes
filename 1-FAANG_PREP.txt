@@ -1,0 +1,97 @@
+What I knew , and what I know now
+
+QUESTIONS:
+
+How would you approach studying leetcode now versus then:
+- Prepare my time in answering, and giving up on problems
+- Its not good to spend +hour plus on a single problem
+- You will lose more time on a single problem that you cant solve rather than moving on
+- Learn to stop
+- I did not master BRUTE FORCE enough
+- I would not even pay attention to where your solution ranks
+- Dont over LeetCode
+- Dont look at the LeetCode solutions ... right away
+- Its Quality of hours versus quantity of hours!!!
+- Take breaks, relax, dont stress too much.
+
+Did I commit to a single FAANG company or try interview at a bunch of places
+- No - i did not 
+- You shouldnt put all your eggs in one basket
+- FAANG (fb, apple, amazon, netflix, google) LOOK beyond this 
+- I would not sort by company at the beginning
+- I would not focus my brain on some category of questions
+- You should NOT commit to a single company
+- a week or X days before the technical interview, I WOULD look 
+at the company category of questions
+
+What resources would I use to study/prepare for FAANG
+- AS a COMPLETE BEGINNER:
+ - AlgoExpert.io: They explain concepts and solutions with video and its good
+ - LeetCode: Overwhelmed, AlgoExpert helped ease me in
+ - Its great for beginners, its the right first step
+
+- AS someone who has experience/learning
+ - ONLY use LeetCode/LeetCode Premium
+ - Participate in the weekly challenges.. for real
+ - Companies sponsor weekly challenges and will reach out if you do well
+
+How would I structure studying WITH a FT job and without
+- WITHOUT:
+ - Best case scenario - you have all the time you need
+ - students, freshmen, younger people
+ - someone who quit/ got fired and have the time
+ - I would treat LC as my FT job
+ - I would have a sticky/ticket system to track
+ - 4-5 days a week, 5 hours a day = 25 hours a week
+
+- WITH a FT Job:
+ - Way fucking harder
+ - If you're working at a company and looking at different jobs,
+you probably dont care anymore
+ - I would begin half-assing my current job
+ - Putting less time on my tasks, not asking for more work, 
+not volunteering, trying to limit my hours
+ - You need more hours to study/spend on LC
+ - 3-5 days a week (have to use weekends], 2-3 hours a day = 15 hours a week
+
+Was I ever worried about bad programming practices
+- personally, no.
+- In an interview, screw all that
+- I wish I would have focused on the brute force!!!
+- Just try to solve the question and speak to the,
+
+How much luck is involved?
+- Enough.
+- What question will you get?
+- Is your interview an ass hole?
+- you have to face it, one day youre lucky, one day youre not
+- "Luck favors the brave" 
+
+If you get a impossible question and you just want to leave ?
+- Ask for hints on the problem
+- Talk to your interviewer about how you are currently approaching
+- If you still cant get it, after your interviewer helps.
+- Dont stress too much!
+- Dont leave
+- BRUTE FORCE IT SOMEHOW!!!
+- You gotta switch from a technical to a behavioural (last resort)
+
+Do you actually use leetcode skills at work?
+- The biggest transferable factor of doing leetcode, and working,
+is problem solving. Critical thinking.
+- At work, you can use a lot of tools that in an interview you cant.
+Example: Sorting. In an interview, you cant just use python.sort(x,y,z)
+- The main thing i learned from LeetCode is how to think and solve problems
+
+How do you know if you truly understand a LC question
+- It comes natural
+- You understand what algo is the best for it
+- You can break it down in smaller parts, and solve each one
+- You dont need to brute force
+- You can explain your solution easy to someone else
+
+What questions to start on LeetCode?
+- Starting any is better than starting none
+- Obviously start easy if you have to
+- I sorted by the top 50 overall questions, then sorted by difficulty
+- Just start
