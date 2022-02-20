@@ -1,0 +1,205 @@
+Expectations for an Entry Developer Feb 20, 2022
+
+- People are nicer in USA than Canada
+- Every Sunday we talk about different engineering topics
+that can be helpful for people just starting in the tech industry
+
+- People are self-taught
+- Come from a non-traditional background in programming
+- Beginners
+
+
+Questions:
+
+
+- If I made a mistake, what should I do?
+- How to reach out for entry-job opportunity
+- How to handle terminology you aren't familiar with
+- When to reach out to different teams in your org
+- How to manage stress and tech workload
+
+
+How well should I know a programming language?
+- Your employer probably thinks you know nothing about
+the programming language you got hired for.
+- They don't emphasize a particular language
+- They expect you to know the fundamentals of 
+programming:
+    - for loops
+    - while loops
+    - creating/reading functions
+    - can you talk about fundamentals
+    - boolean expressions
+- They expect you to know how to Google***
+- You should be familiar with some syntax of the 
+language, but most importantly you need to know
+fundamentals, and how to search/Google using key words
+
+
+How many questions is okay to ask when I start?
+- As a junior, the expectations are low. 
+But, you should be able to deliver
+
+- Juniors are expected to ask A LOT questions
+- Something juniors do wrong: is they get
+stuck on a problem for a week and not 
+tell anyone
+- Juniors should focus on learning and not 
+worry about impressing others
+- Juniors need to explain their problem to their senior
+- Juniors should ask questions, they will be told TO ask
+questions
+
+- Do not repeat asking the same questions
+- Ask high quality questions
+    - it shows that you've read the stack trace
+- Try to be mindful of the seniors time
+
+What to do when I get stuck on a problem?
+- Easy Errors == Easy Fixes
+- Tricky Errors == Rewarding Fixes
+    - 30mins-1.5 hours to solve
+- Tough Errors:
+    - You think you tried everything
+    - you're on page 3 of google searches
+    - you can't seem to even budge 
+    - 2-3 + hours to solve
+    - these are the errors JR's fall into 
+- Juniors always try to solve tough errors on their onw
+no matter how long it takes them.
+- Do not spend more than 3 hours on one error:
+    - work on something else
+    - ask for help
+
+Is it necessary to do open-source contributions
+to land an entry-level job (No prev. experience)
+- OS is definitely encouraged
+- It's very nice to have and show on a resume
+especially with little-to-no-experience
+- it is not mandatory
+- Open source is a great to show:
+    - You have worked on a collab. repository
+    - Your contribution is probably used by others
+    - It was reviewed through a Git flow
+- Is it 'necessary' == No,
+HOWEVER:
+- it just a great way to learn about programming
+
+
+How to not get overwhelmed with huge
+codebases at first glance
+What to do when first seeing a new 
+repository/project
+
+- It's very hard not to get overwhelmed
+- You are not expected to know every line
+- The task you are given, only interacts with a small
+portion of the codebase.
+- This allows the JR to get very familiar with just
+that piece of code
+- JR's, ask questions
+
+- When you are given a new codebase, this what you 
+should start with:
+    - Look at the existing tests***
+    - Show you how the code flows, and certain expectations
+of the code base is from tests ***
+    - Read the ReadMe/Documentation ***
+    - *** If they exists
+- If your service interacts with data, or writes data,
+I would start by looking at the schema
+- Understand the data you are dealing with
+- Note down all the different API/Services that its' using
+
+Constantly feeling like you're going to get fired?
+- Feeling like you're the dumbest on the team
+- This is imposter syndrome
+- HOWVER:
+    - as a junior, its not the employers goal
+    to get you in a place to get fired
+    - No one is looking/hounding to see your
+    mistakes/failures
+    - As a junior, you need to fail, you need
+    to make mistakes to learn, and grow 
+- You are your own worst critic
+
+
+As a junior, how can you properly self-evaluate
+ - You're your own worst critic
+ - You have to be honest with yourself
+ - As a junior, you cannot compare to others on your team
+or org.
+ - When getting feedback, you cannot take it personally
+and if you do, you have to evaluate why
+ - You have to kill your own ego.
+ - At the beginning, you may think you are good at
+programming, but after, you may not second thoughts
+from working with others who are more senior
+- Code Reviews are not personal, strictly business
+- if you are taking code reviews personally, you might
+have an ego problem
+- if you're the smartest in the room, you might want
+to look for a different room to be in
+
+
+Level of complexity in personal projects
+before applying to jobs
+- I think juniors can get lost, or stuck in this 
+topic.
+- they think the more complex a project is, the better
+it looks
+- As a junior the types of projects you want, 
+are the ones that work
+- Juniors need to have projects on their resume
+that they can comfortably talk about, openly
+in a interview
+- It doesnt matter about the complexity for a junior,
+what does matte is how well do you know
+what you're talking about!
+
+Should you stick to one area of development
+from the start instead of switching and 
+exploring
+- Example:
+    - You do a WebDev boot camp for 12 weeks
+    you successfully complete it
+    - you are now a 'webdev'
+    - You start career as a webdev and you truck
+    along
+- As a junior, or someone just starting,
+explore different areas of engineer/programming
+- There are so many different areas of programming
+that it is always good to learn as much as you can
+- You want to try and be passionate about what
+you are building/development
+- When you have passion for something, you are 
+more likely to learn, and grow with in that field
+- As a junior, try to get your hands dirty
+in every area of programming.
+- Find which area of programming you relate
+to the most and have the best time with it 
+- FE != Be != QA != DevOps
+- Be more like a jack of all trades (as a JR)
+
+What to do if you're in a toxic environment
+- For a person who is starting their engineering
+career/ juniors, the environment is the most 
+important aspect
+- A junior needs a good mentor, and a under-
+standing manager
+- A good mentor can really shape the future 
+trajectory of a junior engineer.
+- At this point, a senior can make a junior
+love programming or hate it.
+
+
+If I am coming from a bootcamp, do I 
+have everything I need to be successful?
+
+- Partly, boot camps are great to get the ball rolling
+- Bootcamps are structured to introduce topics and 
+concepts for someone who has never heard of them
+- They are easily digestible
+- Is amazing to start with, get experience, get knowledge 
+- They can be the catapult into the next step
+of your journey/growth
