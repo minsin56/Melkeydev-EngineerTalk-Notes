@@ -1,0 +1,236 @@
+
+
+Resources:
+    - Levels.fyi
+    - glassdoor
+    - Stackoverflow dev
+
+Questions:
+    - What do Junior engineers make?
+    - What do Senior engineers make?
+    - What do engineers in between make?
+    - What companies pay the most?
+    - What location pays the most?
+    - What types of engineering pay differently?
+    - Does education affect salary?
+    - How to negotiate your salary?
+    - What is the salary breakdown?
+        - RSU, Base, Bonus, +++++
+    - Certifications that may affect salary? (does it?)
+    - What are the best paying remote companies?
+    - Do side projects affect your salary?
+    - How to make sure you are not being screwed over?
+    - What if you dont get a raise in a year?
+    - What if you get a shitty raise ? Below inflation rate?
+    
+    
+What do Junior engineers make?
+    - People with 0-2 years of experience in programming
+    - Are starting to rely on one programming language and 
+    honing their skills
+    - Personal example:
+        - I was making 50k as a Data scientist
+    - According to levels.fyi - the top companies pay
+        200k + T.C (total compensation)
+    - Robinhood, Lyft, LinkedIn, Two Sigma, Netflix.. are 
+      the top paying companies for juniors
+    - Slack: 175K total comp
+    - Microsoft: 164k total comp
+    - LinkedIN: 218 total comp
+    - oracle: 189k total comp
+    - Amazon 166k total comp
+
+What do Middle Engineers make?
+    -  2-5 years of experience in programming
+    - This is a career level - it means you can stay here for the rest 
+      of your career
+    - The top paying companies and salaries for a mid level engineer are:
+        - Roblox at 330
+        - cruise at 318
+        - insacart at 308
+    - Twitter: 247k
+    - DoorDash at 280k
+    - Spotify at 199k
+    - Tesla 161k
+    - Cruise 337k
+
+What do senior engineers make?
+    - 5+ years of experience 
+    - Less code, more planning and design
+    - The top paying companies and salaries for a senior level engineer are:
+        - Netflix at 500k
+        - Stripe at 452
+        - Pinterest at 443k
+    - Snowflake: 462k
+    - Paypal: 419k
+    - Uber: 386k
+    - Discord: 300k
+    - Snap: 384k 
+
+What companies pay the most?
+    - Top paying companies are actually not FAANG*
+    * Netflix
+    - The top companies seem to be:
+        - Netflix
+        - Roblox
+        - LinkedIn
+        - Stripe
+
+What locations pay the most in the U.s:
+    - California
+    - Seattle
+    - New York
+    - Portland
+
+What locations pay the most internationally:
+    - Tel Aviv
+    - Vancouver/Toronto
+    - Zurich
+    - London
+    - Sydney
+
+What do different kinds of engineering pay?
+    - According to S.O Survey
+    - Managers make the most (obvious)
+    - Reliability/DevOps/Data engineers make the most technically
+    - ML Scientists, mobile, embeded near the middle
+    - Frontend near the end
+
+Does education affect salary?
+    - If you are applying to a non-"FAANG" company;
+    then yes it does.
+    - If you are applying to only "FAANG" companies;
+    then no it does not 
+    - FAANG companies do not care about your education
+    they care about the following:
+        - if you are entry/junior:
+            LeetCode
+        - if you mid/senior:
+            Experience
+    - If you are going for a machine learning job,
+    then absolutely a degree is important and needed
+tl;dr:
+    It is situational
+
+Should you grind promotions at one company, or hop ever 1-2 years?
+    - What pays more? A promotion or a jump?
+    - A jump can be a promotion at the same.
+    - It really matters on the company/team that you work for
+    - Some people proritize money over work env, some are vice versa
+    - if you only care about money and not so much the product;
+        then yes job hoping is the answer
+    - if you actually care and are passionate about the company
+    and product, it might be worth it to stay and get a promotion
+    because you will have more influence on said product
+    - more pay toxic env OR less pay amazing env
+    - you dont want to hop more than once a year, it looks bad if chained
+    for 4+ years
+    - tl;dr it always depends on what you value
+
+What is the salary breakdown?
+        - RSU, Base, Bonus, +++++
+    - Base Salary
+    - Stock
+    - Bonus
+    
+    Base salary is what you will no external factors - guaranteed pay
+    Bonus- is added ontop of your salary - also guaranteed but temporary
+    Stock - this is value in stock options that are influenced by external
+    factors and time
+    
+    When getting offers, you need to know which of these three do you 
+    value the most? Pick the two most important
+
+    Example, a company offers a high salary and high bonus,
+    but the stock options are low and have a longer vesting period
+    
+    vesting periods can suck, some take 2-4 years to fully vest
+    (aka golden handcufss)
+    
+    Example situation:
+        Offer A:    
+            Base: 150k
+            Bonus: 25k
+            Stock: 100k/yr
+
+        Offer B:
+            Base: 125k
+            Bonus: 75k
+            Stock: 75k/ yr
+            
+    Make sure you know which 2 you prioritize the most
+
+
+Do side projects affect your salary?
+- A few things to consider:
+    - What level are you aiming for
+    - what is the side project?
+- At senior level positions, side projects do not matter
+- At senior level positions they care about your experience
+and if it matches the role they need
+
+- At entry level, side projects can be great conversation points
+for on sight interviews which can determine an offer
+
+- if your side project is actually substantial (aka it 6k stars on GH, generating revenue,
+its a big deal) then even the senior roles will look at that
+
+
+How to make sure you are not being screwed over?
+- Do you feel screwed over?
+    This means that do you feel for the amount of work you are doing, the type of work 
+    you are doing, your compensation is fair
+
+- If yes, then what I would is look at the break of your compensation:
+    - aka base, bonus and stock
+
+- alot of the time, some companies stock drastically falls, which cause T.C to fall
+- Is check the market via:
+    - levels.fyi
+    - glassdoor
+    - linkedin salaries
+- Always negotiate your first offer and make sure that the work you are doing is worth it
+
+Example Situation:
+    Situation A:
+        T.C 300k - but you work 60hours /week
+    
+    Situation B:
+         T.C 200k - but you work 35 hours/week
+
+Example Situation II:
+    Situation A:
+        T.C 400k - but you work 50 hours/week
+    
+    Situation B:
+        T.C 250k - but you work 35 hours/week
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
