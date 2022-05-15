@@ -1,0 +1,190 @@
+May the 8th be with you!
+
+Engineering Talks :)
+Topic: Toxic Work Environments!
+
+Question Bank:
+- The dangers of being passive in a toxic environment
+- Starting at a new company and its toxic
+- red flags in the interview process
+- What are the attributes of a good lead?
+
+
+
+How do we define a toxic environment?
+- An environment that does not focus on setting you up
+for success
+- Very little feed back
+- Constantly feeling like you are stressed
+- Almost no learning and growth opportunities
+- Feeling like you are pigeon-holed
+- Constantly getting just shitty comments
+- Yelled at, being made to feel like youre dumb
+- Being scared to ask questions****
+- You are getting blamed and the finger is constantly pointed at you
+- feeling stagnant
+
+**Do NOT adapt to a bad/toxic environment
+- Sometimes, we are in a toxic environment without knowing 
+- This causes us to adapt to said environment
+- People (JR's especially) will make excuses as to how
+their work is not actually toxic - they blame themselves
+and pin that its on them and not the other way around
+Example:
+    - A new JR joins a team - fresh out of school
+    - They join a very toxic company
+    - No support, strict deadlines, push blame on the junior
+    force the JR to work harder or else
+    - They continue to work there, adapt to an awful environment
+    - Eventually - this could lead to hating your job and hating programming
+
+- You should always have enough confidence in yourself for how you want to be 
+treated
+- Alot of people are scared to bring up things that bother them to higher-ups
+- Focus on YOU and what YOU need
+- A good environment will have managers and leads take time to hear your concerns
+and NOT blow the mover as "over-reacting"
+- Understand the difference between a 'boss' and a 'leader'
+
+
+Junior vs Senior in a toxic environment
+- Junior
+    - For a junior, the most important part of the start of your career
+    is finding a non-toxic, supportive environment for you to learn, grow
+    and big up strong habits that will mold you into the engineer you will
+    become.
+    - Do not worry about the money right away
+        Example:
+            - Situation A:
+                - 170k Offer
+                - You felt it was a bit toxic
+                - Told you were not the first option
+                - Explicitly told you would be doing only one thing majority of the time
+            - Situation B:
+                - 130k Offer
+                - You felt great - completely vibed with the team
+                - They wanted YOU- and want to invest into your growth
+
+    - Some people said they need that extra money
+    - Think about the path you will build in the future if you take option A
+    - tl;dr Jr should focus on learning, environment and being happy and building confidence
+
+- Senior
+    - a toxic environment MAY present opportunity
+    * (if it is incredibly toxic, you can leave and not think twice)
+    - When you are a senior engineer - you have direct influence of the team,
+    on the environment and on junior engineers/future prospects
+    - The opportunity lies in changing/improving the toxic environment
+    - A senior engineer can make it a non-toxic environment for juniors on the team
+    Example:
+        - A senior can see a certain workflow/ gaps in a team environment
+        - They can then start improving and implementing things to make it better
+        - They join and there are no 1:1 managers with their engineers (no bi-weekly/weekly)
+        - A senior can start to bring this up OR even start having their own 1:1 with the rest
+        of the team,
+
+    - Once you become a senior in your career, and lets say you get a frustrating junior
+    - Don't be the senior engineer that is remembered for being a stern ass hole
+    - Try to be the senior engineer that is remembered for making a great culture,
+    being a great leader - a great teacher
+
+----------------------------------------------------------------------------
+HOW MUCH OF A TOXIC ENV. SHOULD YOU TOLERATE
+----------------------------------------------------------------------------
+
+- Let's say youve been working at a company for 10 months
+- And you have realized, that there are aspects of your job that pretty toxic
+- Example:
+    - Feedback is primarily negative
+    - You have an expectation to get something "for the sake of the team"
+    - The roadmap is looking a bit dull and stagnant
+- But there are some good elements on your team:
+    - You like your teammates
+    - You like the benefits
+    - Remote (if you prefer remote) || great location (if you prefer in person)
+    - T.C is much above market average
+
+- If there are some serious concerns, before leaving or thinking of leaving, raise them
+to your lead/ manager
+- Analyze how they respond to your raised concerned
+    - If they brush it off completely, then thats ANOTHER red flag that youre in a 
+    serious toxic environment
+    - If they hear your concern, and they make an effort to see it from you perspective and
+    attempt to make a plan to adress concerns - then thats really good
+        - follow up and see if they actually did anything *
+
+- How much should someone tolerate?
+- there is no one answer - it depends on you.
+    - You should be aware and identify toxic flags
+- If you can "see a light in the tunnel" then its worth staying
+    - if you raise red flags to management, and they make efforts to change and you
+      see/notice the improvements
+
+- If you are in a seriously toxic environment then do not look at your total compensation as 
+justification for how you are being treated
+
+
+----------------------------------------------------------------------------------
+HOW TO HANDLE TOXIC CO-WORKERS
+----------------------------------------------------------------------------------
+- What is a toxic coworker?
+- Being incredibly passive-aggressive
+- Being unsupportive of you and questions you have
+- Throwing you under the bus for things that dont succeed
+- Taking credit for work thats not theres
+- not being able to take feedback/criticism 
+
+- These are not leaders, or juniors, these are your 'equals'
+
+- probably the hardest trait to handle in a toxic environment
+
+- TRIPLE C:
+    - Cool, Calm, Collected
+
+- If you are having a problem with you teammates; what I would do first:
+    - Set a meeting with them
+
+- If the meeting the co-worker went south and there is a continuation of friction,
+    - Bring it up to the manger/tech lead and dont be scared to dso so
+
+- Now typically a manager would take the correct action and attempt to resolve this issue
+- This could cause some unwanted heat between you and the coworker because
+it was raised to a manager
+- If the coworker still continues to be worse DUE to you raising it with your manager
+
+- In my opinion: HR should be like, a last LAST resort
+
+- Don't get too attached to work***
+- Don't be a business man, be a business, man
+
+------------------------------------------------------------------
+Red flags in the interview process
+------------------------------------------------------------------
+- You are given almost no time to prepare for interview
+- They want to hire you almost immediately
+- The recruiter/HR person is giving you no information to prepare
+- They do not bring up compensation expectations early
+
+- If during your tech interview, the paired engineer is basically giving you
+zero feedback on the process, no hints, and just simply pasted the code for you.
+- If during the interview they are straight up asking you "why would you do it this way?"
+or just giving you straight up blunt, negative answerrs
+
+An ideal interview process takes two to tango
+- They are absolutely interviewing you, but you are also interviewing them
+    - do you want to work with these people?
+
+- Down the line, the offer is just a complete low ball (border line disrespectful)
+    - "based on your skills that you demonstrated we think this is a 'FAIR' offer"
+
+
+
+
+
+
+
+
+
+  
+    
+                
