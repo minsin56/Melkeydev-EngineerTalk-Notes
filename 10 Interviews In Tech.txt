@@ -1,0 +1,284 @@
+May 21nd - Saturday
+
+Engineering Talks
+Topic:
+Interviews in Tech
+
+Question Bank:
+- 
+
+
+How do we get an interview at these companies (FAANG/ETC/MAMMA):
+- Big tech companies get hundres - thousands of applicants
+- All these companies have a very generic application system
+- Why would you stand out?
+- It is hard to get an interview
+- Network/References are the best way to get your foot directly in the door
+- "Cold" applications are still effective and can work.
+    - Example: My Googel/Apple interviews were via cold application
+- "Cold" applications however, take a lot of time to may have no results
+- Referrals are the best! way to get an interview
+- How do we get referrals?
+    - There is a misconception in referrals.
+    - You dont need to be close to the person to get referred
+    - Companies offer their empoyees referral bonuses
+    - i.e If you refer someone, you get 5 grand
+    - Employees then realise they can be 'generous' with their referrals
+    - Teamblind.com is a great to way potentially get a referral
+- Networking also can lead to more secure referrals
+- Go to events, go to meetups, go to talks
+    - meet people, introduce yourself, just communicate
+- E-meet people on linkedIn
+- tl;dr Start 'cold' applying, get referrals, start networking
+
+
+After getting an interview, what happens next?
+- You got a kick ass resume
+- You were able to submit an application/get reffered
+  and you were selected for an interview
+- The next phase is a recruiter screening
+- This is when the recruiter will typically call you/email you
+  to discuss the next steps and to talk with you
+- The recruiter will determine if you will move on to the 'actual' interview
+- You need to essentially say what they want to hear:
+    - Why you want to work at the company
+    - Brief description of your work experience and 
+      how it relates to the job
+    - Why you think you are a great fit for the team
+- This is more behavioural BUT not quite
+- What the recruiters is you to say all the right buzz words
+- Recruiters are not the most technical, but they know what they
+  are looking for
+- Talk about the things in the job description **
+- Use the tech in the J.D, match the requirements and make sure 
+  you can talk about the listed responsabilities.
+
+
+After the recruiting phase, we get to the ACTUAL interview phase:
+- It becomes fully technical
+- This is where your resume meets what they want
+- You were able to tell the recruiter what they wanna hear
+- Now you need to prove that you can back up everything said/discussed
+  in the previous phases
+- This is where alot of candidates will get weeded out
+- Typically, depending on the level of the job you are applying for
+  you will get a technical question with an engineer (1:1)
+- For juniors:
+    - This is more than likely a DS&A question from LeetCode
+    - Dreaded LeetCode style of interview where it is a necessary evil
+    - You get prompted a question, and you have 45 minutes to solve it.
+    - That's it. 
+    - Its not JUST about solving, its about how you solve it and 
+      how fast you solve it (optimized or not?)
+- For more senior engineers:
+    - You can STILL get some leetCode questions
+    - These are are harder than what a Junior would get
+    - Sometimes, the leetcode question is more of a S.D (rare)
+- This phase is very black and white; You either pass or you dont.
+- There is no in between, even if the interviewer likes you, if you dont pass
+  you will not move on
+
+What is LeetCode/Codewars/TopCoder?
+- These are websites that contain programming questions 
+- Data structure and algorithm questions.
+- These are almost an industry standard when it comes to  
+  interviews and the interview process
+- Think of this as studying for the interview
+- These technical interviews are like exams, where you need to study for them
+- There are easy-medium-hard questions and most companies use these
+
+
+When should I interview?
+- Example from my own experience:
+    - I interviewed at Google WAY too early
+    - My LeetCode skills were NOT ready at all.
+- If you can do any/majority of Med questions on LeetCode 
+  within a reasonable amount of time - you're good.
+- Don't only use LeetCode, theres a bunch of sites that offer condensed 
+  questions that help you figure out where you are.
+- When you feel like you're ready
+- Kobe Bryant once said that he doesn't get nervous, because if he 
+  is still nervous, then that means he didn't prepare enough.
+- Try mock interviews with friends/resources to gauge how you are
+- Try to interview at companies you dont want to work for to get 
+  interview experience 
+    - Example:
+        - lets say you want to interview/work at Apple
+        - And you really dont want to blow the interview at Apple
+        - What can you do to get interview experience is apply at companies
+          that you dont care about and interview there 
+- it allows you to get your nerves out the way, and actually practice
+  some coding questions
+- You get the jitters out 
+
+
+What to do if you are nervous in interviews?
+- Like previously mentioned above, get interviews at different companies
+  to get those jitters out
+- Sometimes, you still get nervous and you cant help it. You get that feeling
+  in your stomach, you cant think straight, and worse is your over-thinking
+- It is completely normal to feel nervous for a technical interview
+- sometimes i get so nervous, i cant solve the most simple of problems
+- Theres another person who is looking at you while you solve this problem 
+  and they are judging you
+- Before any interview, try to calm your nerves by breathing (deep breathes)
+- Understand that its not the end of the world if things go south.
+    - It can suck, and it probably will, but 5 months from now you 
+      will forget about it
+- One advantage I personally have is that I streamed myself coding, so
+  that is one very good technique is to stream
+- Also, just talk with the interviewer. Be honest, be real. Tell them you're nervous
+- Ask for a minute or two just to calm yourself down.
+- Once you get the question, try to forget about the interviewer.
+- Attempt to put yourself in a space where there is no one else around you.
+- My best piece of advice after getting the question:
+    - Start coding.
+    - Just fucking start typing and compiling
+- Talk it out with the interviewer and just start
+- Do not over read or try to over complicate the question
+- Is just try to get something compiled that offers a solution.
+- Dont even think about over optimising it - just solve it.
+
+How to answer when they ask "introduce yourself":
+- Typical "tell me about yourself" question
+- Which can puzzle a lot of people
+- Is there a correct answer versus an incorrect answer?
+- Even in a technical interview, this is pretty important
+- This is the first true opportunity you have to make a 
+  connection with the interviewer 
+    - Well, if they like you, who knows what kind hints they can drop
+    - maybe they will even pass
+- When asked to introduce yourself:
+    - keep it short; dont ramble
+    - Keep it relevant to the job/company
+    - Example:
+        - During a twitch interview, when asked:
+            - Talk about how you watch programmers on Twitch
+            - How you met people on Twitch via their streams
+    - Say why you are interested in the company
+    - Briefly go over your relevant experience
+    - Example:
+          - You are interviewed for a MLOps role at Twitch
+                - Talk about your relevant ml experiences on your resume
+                 - Talk about how ML can work at Twitch
+                - Talk about how you want to contribute
+- Be normal, and think of it as just a conversation
+
+
+What are behavioural interviews?
+- In a lot of tech companies, the focus is for sure technical
+- However, near the end or part of the on-site is behavioural
+- Behavioural is a key part of the interview process
+- This is where you demonstrate your soft skills
+- Teamwork, collaboration, initiative, leadership
+- This is the asshole test
+- Even if you are a technical wizard, and are just a straight
+  genius with programming, if you are dookie at the behavioural
+  you will get passed
+- You need to be a person that the hiring team wants to work with
+- THis interview process also is where the company will ask you
+  about your morals and if they align with the company morals
+- They will also ask you some examples where you demonstrate certain
+  characteristics.
+- Example:
+    - You're interviewing at Twitch
+    - "Tell me about a time where you demonstrated inclusivity in your team"
+    - Answer:
+        - "I noticed that a junior on my team was struggling with a team project.
+           The junior felt they were under qualified and could not contribute 
+           effectively to the team goal. What I did was reach out to the junior
+           to discuss how they are feeling and break down their struggle into a much
+           more effective and manageable task for them"
+    - "Tell me what you think is your biggest weakness"
+    - Answer:
+        - "Sometimes when given a ambiguous large task, I can get overwhelmed with how
+           to manage deliverables. So to manage this, I effectively break down the large
+           task into smaller pieces that I can track and accomplish on a set date"
+- These questions are part of your evaluation at the end
+- tl;dr for behaviourals:
+    - If you're an asshole
+    - Does the team want to work with you
+
+
+How do you prepare for a behavioural interview?
+- This is a bit of a trickier topic to prepare for 
+- Because there is no good LeetCode for behavioural
+- The advantage for behavioural questions is there they are super generic.
+- Most companies will ask the same sort of questions more or less
+- Which makes it easier to go and Google some example questions
+- Just be kind, be real,
+- Do not ramble because thats how they know you bullshit
+- It is mostly about how well do you know yourself and can talk about you in
+  these situations
+- Really the preparation is in how well do you know yourself, have some practice runs
+- When answering a question about whats your biggest weakness or area of imporvement
+    - make sure you say what steps you are taking NOW to improve
+- It is also a pro to be honest and focus on if the match BOTH WAYS fits
+- How well do you know yourself to be an effective employee
+- You do not want to say answers just for the sake of giving an answer
+- Be genuine and see how they react to your answer.
+- You want to make sure that the company fits your standards as well.
+- Saying i dont know, or i dont have an answer is actually not good, and may
+  be reflected in your evaluation rubric at the end
+- ^ thats why you do have to prepare for behaviourals
+- You should try to optimise in your prep to avoid not having an answer
+
+
+What are System Design Interviews?
+- These are part of any technical interview
+- These are NOT leetcode style
+- System Design are very important
+- These questions are mostly seen at a above-junior leve
+- These are typically questions (wire frames) that ask you to create system
+  that has a certain purpose (could be related to the company or not)
+- Typically these S.D are related to the role
+- Example:
+    - Interview MLOps role at Twitch:
+        - Question: "Design a recommendation system for first time viewers on Twitch"
+- The question themselves are pretty generic and allow for almost any sort of answer
+  as long as the system makes sense, and it works.
+- These typically involve knowledge of databases, client interactions, data pipelines,
+  flows, etc etc
+- Sometimes it is a plus to actually name the technology used in the design
+- Example:
+    - Talking about which database you will use (sql or non-sql)
+    -  what pubsub tech will you use? Kafka?
+    - What load balancer?
+    - What cloud provider
+- if you are going to go very specific, make sure the technology is used by the company
+  (this will be on the job description)
+- It is perfectly fine to just use generic terminology to describe the system
+- The more senior the role you are being interviewed for, the more complex the system can be
+- Example:
+    - Question: "Design a real-time recommendation system that uses a batch flow for updating
+      users based on real-time viewer events for a system on if they are eligible for a promo"
+- S.D interviews are way more conversation based
+- It is a lot harder to memorise and answer for S.D
+- Sometimes in LeetCode you can memorise answer 
+- S.D, if you know it then you can talk about it all day. Versus if you dont, it is very evident.
+- In my personal opinion, I prefer S.D over LeetCode
+- In my Twitch interview,  the system design saved me because I bombed a previous leet code question
+
+
+How many rounds are usually in a interview?
+- This depends on the company itself
+- For sure though:
+    - Recruiter Screening
+    - Take home technical
+    - 1:1 With Engineer another technical LeetCode
+    - On-site:
+        - This can depend on the company completely.
+        - You can have an interview with the manager
+        - You can one, or multiple more technical leet code
+        - You can one, or multiple more system design questions
+        - You can one, or multiple behavioural questions
+
+- This can as little as 4 total, or as much as 8-10
+- On-site take a long time, they are a full day process.
+  Sometimes they are split into multiple days
+
+
+
+
+
+
