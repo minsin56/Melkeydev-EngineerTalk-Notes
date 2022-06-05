@@ -1,0 +1,285 @@
+Engineering Talks
+June 5th!
+Topic:
+- Best Ways to learn new tech or a new language
+
+
+At the end of this:
+    - I would like to have a clear path for someone 
+      to take to start learning and using
+
+
+Pre-cursor:
+- I think every single engineer/programmer is 'self-taught'
+- Programming now a days, with internet and resources is not what i
+  once was
+- Regardless of how you started in programming, we are all self-taught.
+- There are always parts of a job that you need to learn/research yourself
+- It always depends on WHAT you want to do
+    - Do you want to just ace an exam?
+    - Do you want to just build apps?
+- Everyone (JR/SR, new or veteran) have gone through the same moment
+  where they need to learn something they have not exposed to
+
+
+What does it mean to have 'learned' something?
+- This is super subjective. 
+- It all depends on the 'depth' of why you are learning
+- Who know every detail/function of a language and 
+everything there is to it.
+- I am not one of those engineers, I still Google how to 
+slice in Python
+- Do you need to learn every detail to truly 'know' something?
+    - No, you don't
+- It depends on what your goal is. If your goal is to launch
+an application and get it used, you probably don't care
+about the details and function calls of a language
+- However, if you want to never resort to Google,
+then your goal is to truly know everything there is 
+about a language/tech
+
+The builder is focused on just getting something shipped, and will
+worry about details after
+The knower focuses more on truly understanding as much
+as they possible can about the topic first 
+
+At the start, you will more than likely fall more into one of these
+than the other
+
+
+Why do you want to learn something new?
+- Job requirement
+- A new framework is becoming the more popular option
+- New tech is gaining traction
+- Market shift
+- New tech has solved a problem and has become a defacto
+  solution
+- Tech has become current 'meta'
+- You want to expand into a new field
+- Example:
+    - You have worked the last two years as a BE Cloud engineer
+    - You want to build a mobile app.
+    - Thus, you start learning React-Native and Expo, CSS etc
+
+- Sometimes you just want to learn something new because
+you are bored, and want something new
+- You want to challenge yourself
+- You need to refactor an existing service to
+- You want to change careers
+- Example:
+    - You have been working as a designer for a tech company
+    - You finally want to work as a Frontend Engineer
+
+
+How Should I learn?
+- There are inefficient ways to learn
+- There are efficient ways to learn
+- You can waste your time by doing thing that are not going
+to help you
+- It is important to structure your learning in a way
+that you gain the most from it
+- You want to maximize your time to absorb and master as much as you can
+- You want to absolutely avoid tutorial hell
+- A good engineer is able to identify a shitty resource, versus a beneficial one
+- A udemy course that costs $99.99 dollars !> than one that costs $10.00, or free
+    - its not about the cost, its not about the publicity
+    - it's about the material and instructor
+- There's qualities in the material that you use to learn from
+- I am sure, a course that is 8 hours of how to make a note taking app
+  also exists in another course as 2 hours to make a similar app
+- Both, will teach you how to make a note taking app.
+- However, those 6 hours can be used to do something different and be more useful
+- You dont want to spend 10 hours learning something that can take 4 hours to learn
+
+===================================
+TUTORIAL HELL
+===================================
+- Every single person who has coded/developed
+has been in this hell.
+- Tutorial hell is when you are stuck watching/doing videos/courses
+on a topic to keep learning. 
+- It seems like there is always more to learn, so you keep searching
+- Signs you are in tutorial hell:
+    - Thousand tabs open on the topic
+    - You have been 'learning' the topic for weeks now
+    - You are starting to look/see the same material you already did
+
+Before we talk about how to AVOID tutorial hell, we need to talk about
+WHY people get into tutorial hell
+
+- Is because they dont know when they truly have learned the topic
+- They feel they are still not good enough 
+- They are searching for a 'better' course/tutorial
+- There is always more**
+
+In my opinion, to get out of tutorial hell, you first need to establish a GOAL.
+- Before you start learning something, you should have a goal. A strong 
+  defined goal.
+- Having a goal != having a strong, well defined goal.
+- Example:
+    - "I want to learn ReactNative to be a mobile Dev"
+        - This is a goal
+        - This is a WEAK Goal
+    - "I want to move my PWA into a siloed iOS app for better
+      mobile experience for users"
+        - This is a goal
+        - This is a STRONG goal
+- A strong goal sets you up for success
+- A weak goal sets you up for failure
+
+- With a strong goal, you know exactly what you want/need to do.
+- Thus, when you are looking at tutorials/material, you know 
+exactly what you need to build what you want.
+- This already reduces the chances of being stuck in tutorial hell.
+
+- Another point to get out of Tutorial hell is confidence.
+- Confidence is super important for when you want to develop and learn.
+- You can definitely do what they are teaching you.
+
+Recap on Tutorial Hell/How to Learn:
+- Be cautious on bad material
+- Scope out the good material that will be beneficial to you
+- Set a strong initial goal
+- Be smart with your time, dont only watch long courses
+- Have confidence in what you build and how you build it.
+
+
+17Elijah Question:
+- Did I learn the in's and outs for my job at Twitch after getting hired
+or did i already know what i was going to do
+- Before working at Twitch as a MlOps, I was a lead ML Engineer at 
+a startup. I had to basically wear multiple hats and do things fast
+- i had to do data science tasks, Ops tasks, and SWE tasks
+- At twitch, it is very role specific. 
+- The only difference is at twitch, I specialized. So i had SOME knowledge,
+but the majority/polishing came on the job.
+
+usmc_chick Question:
+- When you are 'green' or just starting as a beginniner, what are some 
+examples of 'strong goals'
+- A strong goal is very defined with a clear definition and is not broad.
+- Example:
+    - You want to learn WebDev
+    - Weak Goal: "i will learn JS to build a website"
+    - Strong Goal: "I will learn JS to build a portfolio website which then I will continue to build
+      on with CSS, HTML, and other tech"
+        - I will integrate a free API to pull some data
+        - I will then host it on GitHub
+        - It will have two pages, one with my projects, one with my goals. All made with CSS
+
+ ==============================================
+THIS IS MY PATH TO LEARNING NEW TECH/LANGUAGE
+===============================================
+- This is what I do, it is not perfect, but I have done this for:
+    - Machine Learning
+    - Python
+    - Go
+    - React/TS 
+    - I have used this same path for evertything I have learned
+- I first start out with a strong defined Goal:
+    Goal: I wanted Astrostation.me to have a much better mobile experience
+- From my goal I knew i need to make astrostation.me a mobile app.
+- I then looked at what my options in terms of technology to make a mobile app
+    - React native
+    - Flutter
+- I chose ReactNative because I have experience with React
+- Then I heard about Expo. I asked cmgriffing about Expo and what it does.
+
+- Even before opening or searching about ReactNative or Expo, I started to define
+my goal and ask fellow people in my network about it.
+- This is called the information gathering phase//prep phase
+
+- Now, it is time for the "In the trenches" phase.
+- This is where you start to gather courses/blogs/videos on how to code/
+use the thing you want to learn about
+
+- First - i dedicate an entire google chrome window for just learning
+- Then I find the documentation - first tabs
+- Now this is a wild phase:
+    - i literally try to find as much material as I can using:
+        - Youtube
+        - Medium/blogs
+        - Google
+        - Maybe a streamer
+    - i find and open as many as I possible can and just keep them open
+    - Sometimes I could have as many as 20+ tabs open of material
+    - I then PURGE all those tabs to have <10 (with docs) 
+    - You are just scanning these tabs to see if you want to invest time into it
+    - I purge by:
+        - date posted (outdate or not)
+        - total view count
+        - If i know the instructor
+        - Reviews/comments etc
+- At this point, I should have my remaining tabs/ with material that I want
+- I start from left to right, always starting with the docs and their 
+walkthroughs/tutorials first
+- Then I make my way into crash courses, or replicating apps
+- I go through all the material,
+
+i start building what I want to build which ties back to my strongly
+defined goal.
+
+bbxquality Question:
+- I know some coding already, should I go to a bootcamp
+and is it worth (bootcamp is expensive)
+- Epicatt: "There are tons of free resources online for learning. You can do it."
+
+
+
+Mistakes Beginners/Jr Developers make while learning:
+- A common mistake I see is language hopping
+- A lot of beginners think that learning one language has 
+significant benefits from learning another language
+- Language hopping can be dangerous because sometimes you
+start focusing on language specifics/ syntax over the actual
+programming concept
+- As a beginner, my recommendation is to just choose one language related
+to the type of engineering yo uwant to work on:
+    - Frontend: Pick and stick w/ javascript (just an example)
+    - Backend: Pick and stick w/ python (just an example)
+    - (the point being is to stick with A language)
+- The reason why this is bad is because as JR you actually shouldnt
+really care about the language you are using.
+- As a beginner/JR, you need to focus on:
+    - Fundamental concepts of CS
+    - How to Debug Errors
+    - How to read errors
+    - How to find solutions
+    - How to google (this is a skill!)
+- For any JR/Beginner my advice:
+    - Just stick with it, keep going, and keep learning
+    - Don't get shiny dollar syndrome
+
+Shiny Dollar Syndrome:
+- You are walking down the street and you see a shiny dollar. You start making
+your way to pick it up, but half way, you see another, shinier dollar. So 
+instead of picking up the first shiny dollar, you start walking to the next, shinier
+one you just saw. And then it repeats.
+- Basically, you have spent all this time walking to pick up a dolllar, but you
+end up with no dollars!
+
+- Shiny Dollar Syndrome is very prominent in Javascript frameworks
+    - React
+    - Vue
+    - Svelte, Ember, MithrilJS
+    - Angular
+- Example:
+    - You start learning React, BUT THEN:
+        - BBXquality says theres more jobs in Angular than React
+    - OKAY - so you start learning Angular
+        - BUT THEN, you learn Angular has a bad community (not true, only example)
+    - OKAY so you learn Vue
+        - BUT THEN, your friend says have have you heard about 
+          this new framework solidjs
+       
+    This example is SDS - you spent all this time learning about a JS
+    framework, and end up with real no substance add
+
+SDS can lead to tutorial hell
+
+Tl;dr conclusion:
+- Tech does not move as fast as you think it does
+- Meaning the latest and greatest FW, is probably not all that adopted
+- Stick with one, master it, then move on
+- Focus on being a good programmer/engineer, as oppose to being a
+good "react" or "<insert tech here>" dev (in the beginning)!!!
